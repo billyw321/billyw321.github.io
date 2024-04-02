@@ -60,9 +60,9 @@
     text-align: center;
 }
 .Socials{
-    text-align: left;
+    text-align: center;
     margin-left: 50px;
-    font-size: 36px;
+    font-size: 24px;
 }
 #social_head{
     font-style: italic;
@@ -70,9 +70,6 @@
 .navbuttons{
     background-color: rgb(20, 3, 20);
     margin-right: 12px;
-}
-.gitname{
-    background-color: rgb(20, 3, 20);
 }
 nav{
     background: rgb(20, 3, 20);
@@ -86,9 +83,6 @@ footer{
     font-size: 36px;
     margin-right: 50px;
 }
-.skill_list{
-    
-}
 .Socials_body{
     margin-inline: 50px;
 }
@@ -98,4 +92,13 @@ footer{
 }
 .patchy{
     align-items: left;
+}
+#Shipment_Calculator{
+    text-align: left;
+}
+#Bin_Search{
+    text-align: right;
+}
+.skill_list{
+    margin-inline: 50px;
 }
