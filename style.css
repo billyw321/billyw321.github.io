@@ -65,8 +65,7 @@
     font-size: 36px;
 }
 #social_head{
-    border-style: double;
-    width: 225px;
+    font-style: italic;
 }
 .navbuttons{
     background-color: rgb(20, 3, 20);
@@ -91,9 +90,7 @@ footer{
     
 }
 .Socials_body{
-    border-style: double;
     margin-inline: 50px;
-    width: 405px;
 }
 #Discord_Button{
     font-size: 30px;
