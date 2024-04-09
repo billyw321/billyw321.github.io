@@ -102,3 +102,9 @@ footer{
 .skill_list{
     margin-inline: 50px;
 }
+#ship_bio{
+    font-size: 24px;
+    text-align: left;
+    margin-left: 1000px;
+    
+}
